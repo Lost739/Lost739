@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## To aprendendo aos poucos aí
 
  <div>
    <a href="https://github.com/Lost739">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lost739&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lost739&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lost739&layout=compact&langs_count=6&theme=highcontrast"/>
 </div>
     
 <div style="display: inline_block"><br>
